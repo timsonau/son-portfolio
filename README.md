@@ -1,2 +1,2 @@
-# son-portfolio
+# Tim Son portfolio
 My web portfolio 
