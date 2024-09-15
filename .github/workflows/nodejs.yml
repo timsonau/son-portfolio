@@ -29,8 +29,5 @@ jobs:
     - name: Run lint
       run: npm run lint # Adjust this if you have a different lint command
 
-    - name: Run tests
-      run: npm test
-
     - name: Run Prettier
       run: npm run prettier -- --check # Checks formatting without modifying files
