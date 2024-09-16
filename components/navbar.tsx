@@ -18,8 +18,6 @@ import {
   TwitterIcon,
   GithubIcon,
   DiscordIcon,
-  HeartFilledIcon,
-  SearchIcon,
   Logo,
 } from "@/components/icons";
 
